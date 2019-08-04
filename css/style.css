@@ -28,7 +28,7 @@ body h1,h2,h3,h4,h5,h6{
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height:650px;
-	position: absolute;
+	position: relative;
 }
 .top-header {
 	padding: 2em 0;
