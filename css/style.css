@@ -1,8 +1,4 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-family: 'Open Sans', sans-serif;
@@ -506,7 +502,7 @@ span.border.one:after {
 }
 .wthree_about_right h3 span:before,.wthree_about_right h3 span:after{
 	content: '';
-    position: absolute;
+    position: relative;
     bottom: 0%;
 }
 .wthree_about_right h3 span:before{
@@ -607,7 +603,7 @@ span.border.one:after {
   transform: scale(0);
 }
 .wthree_about_right_grids {
-     margin-top: 4em;
+     margin-top: 0;
 }
 #services {
     padding: 5em 0;
