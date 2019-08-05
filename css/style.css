@@ -621,6 +621,8 @@ span.border.one:after {
   list-style: none;
       padding: 10px 0 10px;
   position: relative;
+	background: #f9ddaa;
+	padding-right: 15px;
 }
 .timeline:before {
       top: 0;
@@ -684,8 +686,7 @@ h4.timeline-title a:hover {
   border-left: 0 solid #ccc;
   border-bottom: 15px solid transparent;
   content: " ";
-	background: #f9ddaa;
-	padding-right: 15px;
+
 }
 
 .timeline > li > .timeline-panel:after {
@@ -698,8 +699,6 @@ h4.timeline-title a:hover {
   border-left: 0 solid #fff;
   border-bottom: 14px solid transparent;
   content: " ";
-	background: #f9ddaa;
-	padding-right: 15px;
 }
 
 .timeline > li > .timeline-badge {
