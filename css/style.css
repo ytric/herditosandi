@@ -2146,8 +2146,4 @@ option:not(:checked) {
   background: #78f21d;
 }
 
-<style>
-ul#icons li {
-  display:inline;
-}
-</style>
+
