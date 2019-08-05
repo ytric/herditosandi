@@ -1515,6 +1515,11 @@ span.border.two:after {
 		min-height: 367px;
 		margin-left: 7em;
 	}
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
 }
 @media(max-width:640px){
 	.mail_right input[type="text"], .mail_right input[type="email"], .mail_right textarea {
@@ -1663,6 +1668,11 @@ span.border.two:after {
 		min-height: 418px;
 		margin-left: 7em;
 	}
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
 }
 @media(max-width:480px){
 	.wthree_about_right_grids {
@@ -1783,6 +1793,11 @@ span.border.two:after {
 		margin: 0em 0 1em 0;
 		padding: 0;
 	}
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
 }
 @media(max-width:414px){
 	span.menu img {
@@ -1857,6 +1872,11 @@ span.border.two:after {
 		width: 354px;
 		margin: 2em auto 0;
 	}
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
 }
 @media(max-width:384px){
 	ul.year li {
@@ -1920,6 +1940,11 @@ span.border.two:after {
 		margin: 0 0 14px 0px;
 		font-size: 1.5em;
 	}
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
 }
 @media(max-width:375px){
 	.banner-info {
@@ -1947,6 +1972,11 @@ span.border.two:after {
 		float: right;
 		padding: 0.5em 1em 1.5em 1em;
 	}
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
 }
 @media(max-width:320px){
 	.resp-tab-item {
@@ -1995,6 +2025,11 @@ span.border.two:after {
 		margin-top: -62px;
 		padding: 6px 0;
 	}
+  .hide-this{
+    visibility:hidden;
+    display:none;
+
+}
 }
 
 
