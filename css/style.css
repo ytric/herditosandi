@@ -1474,6 +1474,10 @@ span.border.two:after {
 		padding: 0.6em 2em;
 		font-size: 1em;
 	}
+ .hide-this-from-tablet{
+    visibility:hidden;
+    display:none;
+}
 
 }
 @media(max-width:800px){
