@@ -200,6 +200,54 @@ ul.address li ul.address-text li a:hover{
 ul.address-text b {
     color:#fff;
 }
+
+/*--social icon--*/
+
+.social-icon li {
+  display: inline-block;
+}
+
+.social-icon li a{
+  color: #000;
+  background: #fff;
+  width: 35px;
+  height: 35px;
+  line-height: 38px;
+  display: block;
+  text-align: center;
+  border-radius: 100%;
+  font-size: 16px;
+  margin: 15px 6px 12px 6px;
+  transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -o-transition: all 0.3s ease-in-out 0s;
+}
+
+.social-icon li:hover {
+  color: #fff;
+}
+
+.social-icon li .facebook:hover {
+  background: #3b5999;
+}
+
+.social-icon li .twitter:hover {
+  background: #4A9CEC;
+}
+
+.social-icon li .instagram:hover {
+  background: #cd8bbb;
+}
+
+.social-icon li .linkedin:hover {
+  background: #1260A2;
+}
+
+.social-icon li .google:hover {
+  background: #78f21d;
+}
+
 /*--social-icons--*/
 ul.social-icons{
 	    display: block;
@@ -2018,51 +2066,6 @@ select:-moz-focusring {
 }
 option:not(:checked) {
   color: black; /* prevent <option>s from becoming transparent as well */
-}
-
-.social-icon li {
-  display: inline-block;
-}
-
-.social-icon li a{
-  color: #000;
-  background: #fff;
-  width: 35px;
-  height: 35px;
-  line-height: 38px;
-  display: block;
-  text-align: center;
-  border-radius: 100%;
-  font-size: 16px;
-  margin: 15px 6px 12px 6px;
-  transition: all 0.3s ease-in-out 0s;
-  -moz-transition: all 0.3s ease-in-out 0s;
-  -webkit-transition: all 0.3s ease-in-out 0s;
-  -o-transition: all 0.3s ease-in-out 0s;
-}
-
-.social-icon li:hover {
-  color: #fff;
-}
-
-.social-icon li .facebook:hover {
-  background: #3b5999;
-}
-
-.social-icon li .twitter:hover {
-  background: #4A9CEC;
-}
-
-.social-icon li .instagram:hover {
-  background: #cd8bbb;
-}
-
-.social-icon li .linkedin:hover {
-  background: #1260A2;
-}
-
-.social-icon li .google:hover {
-  background: #78f21d;
 }
 
 
