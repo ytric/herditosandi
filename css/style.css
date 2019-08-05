@@ -1663,7 +1663,10 @@ span.border.two:after {
 		min-height: 418px;
 		margin-left: 7em;
 	}
- 
+ .hide-this{
+    visibility:hidden;
+    display:none;
+}
 
 }
 @media(max-width:480px){
@@ -1785,10 +1788,7 @@ span.border.two:after {
 		margin: 0em 0 1em 0;
 		padding: 0;
 	}
-.hide-this{
-    visibility:hidden;
-    display:none;
-}
+
 
 @media(max-width:414px){
 	span.menu img {
