@@ -1515,11 +1515,6 @@ span.border.two:after {
 		min-height: 367px;
 		margin-left: 7em;
 	}
-  .hide-this{
-    visibility:hidden;
-    display:none;
-
-}
 }
 @media(max-width:640px){
 	.mail_right input[type="text"], .mail_right input[type="email"], .mail_right textarea {
@@ -1668,9 +1663,7 @@ span.border.two:after {
 		min-height: 418px;
 		margin-left: 7em;
 	}
-  .hide-this{
-    visibility:hidden;
-    display:none;
+
 
 }
 }
