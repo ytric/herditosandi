@@ -2092,3 +2092,11 @@ span.border.two:after {
 #content-mobile {display: block;}
 
 }
+
+select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+}
+option:not(:checked) {
+  color: black; /* prevent <option>s from becoming transparent as well */
+}
