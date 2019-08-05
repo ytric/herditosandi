@@ -2076,7 +2076,7 @@ span.border.two:after {
   .hide-this{
     visibility:hidden;
     display:none;
-
+#home .background {url(../images/contact.jpg) no-repeat center top}
 }
 
 
