@@ -2112,7 +2112,6 @@ option:not(:checked) {
   height: 35px;
   line-height: 38px;
   display: block;
-  text-align: center;
   border-radius: 100%;
   font-size: 16px;
   margin: 15px 6px 12px 6px;
