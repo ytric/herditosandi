@@ -2020,11 +2020,7 @@ span.border.two:after {
   .services-item {
     margin-bottom: 20px;
   }
-  .hide-this{
-    visibility:hidden;
-    display:none;
 
-}
 
 }
 
@@ -2046,9 +2042,7 @@ span.border.two:after {
   .counter-section .counter p {
     font-size: 14px;
   }
-  .hide-this{
-    visibility:hidden;
-    display:none;
+
 
 }
 
