@@ -2105,7 +2105,7 @@ option:not(:checked) {
   display: inline-block;
 }
 
-.social-icon li a {
+.social-icon {
   color: #000;
   background: #fff;
   width: 35px;
@@ -2122,23 +2122,23 @@ option:not(:checked) {
   -o-transition: all 0.3s ease-in-out 0s;
 }
 
-.social-icon li a:hover {
+.social-icon:hover {
   color: #fff;
 }
 
-.social-icon li .facebook:hover {
+.social-icon .facebook:hover {
   background: #3b5999;
 }
 
-.social-icon li .twitter:hover {
+.social-icon .twitter:hover {
   background: #4A9CEC;
 }
 
-.social-icon li .instagram:hover {
+.social-icon .instagram:hover {
   background: #cd8bbb;
 }
 
-.social-icon li .linkedin:hover {
+.social-icon .linkedin:hover {
   background: #1260A2;
 }
 
