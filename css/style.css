@@ -2162,3 +2162,8 @@ option:not(:checked) {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+ul#soicon li {
+  display:inline;
+}
