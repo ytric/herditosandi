@@ -748,7 +748,7 @@ h4.timeline-title {
 }
 ul.year {
     text-align: center;
-	    margin-left: 13em;
+	    margin-left: 1em;
 }
 ul.year li {
      list-style: none;
@@ -756,9 +756,9 @@ ul.year li {
     font-size: 1em;
     color: #fff;
     text-align: center;
-    background: #2f5135;
+    background: #4a422b;
     padding: 11px 0;
-    width:80%;
+    width:100%;
     display: block;
 	padding-left: -20px;
 }
@@ -772,6 +772,21 @@ ul.year li:nth-child(4){
 	    margin-top: 70px;
 }
 ul.year li:nth-child(5){
+	    margin-top: 70px;
+}
+ul.year li:nth-child(6){
+	    margin-top: 70px;
+}
+ul.year li:nth-child(7){
+	    margin-top: 70px;
+}
+ul.year li:nth-child(8){
+	    margin-top: 70px;
+}
+ul.year li:nth-child(9){
+	    margin-top: 70px;
+}
+ul.year li:nth-child(10){
 	    margin-top: 70px;
 }
 .timeline-badge.success i {
