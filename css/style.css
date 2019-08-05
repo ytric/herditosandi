@@ -1423,6 +1423,8 @@ span.border.two:after {
 		position: absolute;
 		top: 16px;
 		left: -3px;
+		background: #f9ddaa;
+		padding-right: 15px;
 	}
 	.timeline:before {
 		top: 0;
