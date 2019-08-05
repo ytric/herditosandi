@@ -621,8 +621,8 @@ span.border.one:after {
   list-style: none;
       padding: 10px 0 10px;
   position: relative;
-	background: #f9ddaa;
-	padding-right: 15px;
+	background: #baa57d;
+	padding-right: 30px;
 }
 .timeline:before {
       top: 0;
