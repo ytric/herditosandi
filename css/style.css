@@ -2028,7 +2028,8 @@ span.border.two:after {
 
 }
 
-
+#content-desktop {display: block;}
+#content-mobile {display: none;}
 
 
 /* only small tablets */
