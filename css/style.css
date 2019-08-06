@@ -2170,7 +2170,7 @@ option:not(:checked) {
 }
 
 
-@media(max-width:400px){
+@media(min-width:400px){
 .hide-from-tablet-dekstop {
 	visibility:hidden;
    	 display:none;}
