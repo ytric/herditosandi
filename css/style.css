@@ -1073,9 +1073,7 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
     margin: 0 0 30px;
     }
 
-.hide-from-tablet-dekstop {
-	visibility:hidden;
-   	 display:none;}
+
 }
 }
 
@@ -2172,6 +2170,9 @@ option:not(:checked) {
 }
 
 
+@media(max-width:400px){
+.hide-from-tablet-dekstop {
+	visibility:hidden;
+   	 display:none;}
 
-
-
+}
