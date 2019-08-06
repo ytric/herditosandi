@@ -2166,3 +2166,13 @@ option:not(:checked) {
   to {opacity: 1}
 }
 
+
+.dekstop-nextprev {
+position:relative
+
+@media(max-width:480px){
+visibility:hidden;
+    display:none;}
+
+}
+}
