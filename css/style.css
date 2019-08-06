@@ -203,7 +203,7 @@ ul.address-text b {
 
 /*--social icon--*/
 
-.social-icon li {
+.social-icon {
   display: inline-block;
 }
 
@@ -250,7 +250,7 @@ ul.address-text b {
 
 /*--social-icons--*/
 ul.social-icons{
-	    display: block;
+	display: block;
     padding: 0;
     background:#00a78e;
     padding:1.3em 0;
