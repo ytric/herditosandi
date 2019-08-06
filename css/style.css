@@ -2169,7 +2169,3 @@ option:not(:checked) {
   to {opacity: 1}
 }
 
-
-.hide-from-tablet-dekstop {
-	visibility:hidden;
-   	 display:none;}
