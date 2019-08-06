@@ -2168,13 +2168,17 @@ option:not(:checked) {
 
 
 .dekstop-nextprev {
-position:relative
-margin: auto
-text-align: center
+    margin: 0;
+    background: brown;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 
-@media(max-width:480px){
-visibility:hidden;
-    display:none;}
+	@media(max-width:480px){
+	visibility:hidden;
+   	 display:none;}
 
 }
-}
+
