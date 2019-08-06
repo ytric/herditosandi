@@ -1072,6 +1072,11 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
     #portfolio .portfolio-item {
     margin: 0 0 30px;
     }
+
+.hide-from-tablet-dekstop {
+	visibility:hidden;
+   	 display:none;}
+}
 }
 
 .portfolio-modal .modal-content h3 {
@@ -2166,27 +2171,7 @@ option:not(:checked) {
   to {opacity: 1}
 }
 
-@media(max-width:480px){
-.dextop-nextprev{
-	visibility:hidden;
-   	 display:none;}
-}
 
-dekstop-nextprev {
-	display: block;
-    margin: 0;
-    background: black;
-	text-color: white;
-	text-size: 30px;
-    position: absolute;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
 
-}
 
-@media(min-width:481px){
-.hide-from-tablet-dekstop {
-	visibility:hidden;
-   	 display:none;}
-}
+
