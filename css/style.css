@@ -2184,8 +2184,8 @@ dekstop-nextprev {
 
 }
 
-hide-from-tablet-dekstop {
-	@media(min-width:481px){
+@media(min-width:481px){
+.hide-from-tablet-dekstop {
 	visibility:hidden;
    	 display:none;}
 }
