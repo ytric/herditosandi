@@ -203,7 +203,7 @@ ul.address-text b {
 
 /*--social icon--*/
 
-.social-icon {
+.social-icon li {
   display: inline-block;
 }
 
@@ -2166,7 +2166,3 @@ option:not(:checked) {
   to {opacity: 1}
 }
 
-
-ul#soicon li {
-  display:inline;
-}
