@@ -2170,6 +2170,7 @@ option:not(:checked) {
 .dekstop-nextprev {
 position:relative
 margin: auto
+text-align: center
 
 @media(max-width:480px){
 visibility:hidden;
