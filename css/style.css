@@ -2170,7 +2170,9 @@ option:not(:checked) {
 dekstop-nextprev {
 	display: block;
     margin: 0;
-    background: brown;
+    background: black;
+	text-color: white;
+	text-size: 20px;
     position: absolute;
     left: 50%;
     margin-right: -50%;
