@@ -1208,6 +1208,14 @@ ul.social-icons.two {
     margin: 2em 0;
     background: none;
 }
+
+ul.social-icon.two {
+    display: block;
+    padding: 0;
+    margin: 2em 0;
+    background: none;
+}
+
 .navbar-default .navbar-nav > li > a.active {
     color: #F2593A !important;
 }
@@ -1879,6 +1887,12 @@ span.border.two:after {
 		margin: 99px 0px 0;
 	}
 	ul.social-icons.two {
+		display: block;
+		padding: 0;
+		margin: 1em 0;
+		background: none;
+	}
+	ul.social-icon.two {
 		display: block;
 		padding: 0;
 		margin: 1em 0;
